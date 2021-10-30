@@ -24,5 +24,8 @@
   "homepage": "https://github.com/mjh1985codeman/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^6.3.0"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
   }
 }
